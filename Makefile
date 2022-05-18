@@ -1,0 +1,3 @@
+
+test:
+	npx hardhat test
